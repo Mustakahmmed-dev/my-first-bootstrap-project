@@ -25,3 +25,20 @@
 .c-card p{
     text-align: left;
 }
+        /* Carousel layout ends here */
+            /* Main layout starts here */
+/* Text container starts here */
+.main{
+    background-color: #e9ecf2;
+
+}
+.text-container{
+    padding: 40px 0px;
+    background-color: #e8e7dc;
+}
+/* Some Videos in main */
+#watch-videos{
+    box-sizing: border-box;
+    padding: 20px;
+    text-align: center;
+}
