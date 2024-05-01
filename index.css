@@ -42,3 +42,22 @@
     padding: 20px;
     text-align: center;
 }
+
+/* Here is footer */
+
+/* Social Media icons */
+#social-media-icons a i{
+    padding: 10px;
+    font-size: 18px;
+    color: white;
+}
+#social-media-icons a i:hover{
+    scale: 1.8;
+    color: pink;
+
+}
+.row > div{
+    margin-bottom: 40px;
+}
+
+/* Footer ends here */
